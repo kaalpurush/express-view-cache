@@ -7,7 +7,6 @@
     "node": ">=0.10.32",
     "npm": ">=1.4.3"
   },
-  "os": [ "linux", "darwin" ],
   "scripts": {
     "start": "node example/expressAppWithCache.js",
     "test": "./node_modules/.bin/mocha --reporter spec",
